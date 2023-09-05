@@ -1,0 +1,17 @@
+Package: tlshtree
+Type: Package
+Title: Implementation of TLSH and various helper functions. 
+Version: 1.0
+Date: 2023-08-02
+Authors: Kyle Gwinnup
+Maintainer: Who to complain to <kyle.gwinnup@redcanary.com>
+Description: This package implements TLSH and various helper functions for TLSH analysis in R.
+License: BSD
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.3
+LazyData: true
+Imports: Rcpp (>= 1.0.11)
+LinkingTo: Rcpp
+RcppModules: TlshTree 
