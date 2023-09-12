@@ -15,7 +15,7 @@ efficiently searching for similar TLSH hashes.
 ## Installation
 
 ```
-devtools::install_github("github.com/redcanaryco/rtlshtree")
+devtools::install_github("redcanaryco/rtlshtree")
 ```
 
 ## Usage
